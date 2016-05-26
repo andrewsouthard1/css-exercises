@@ -1,0 +1,24 @@
+		
+h1 {
+	color: green;
+/*	border-color: purple;
+	border-width: 5px;
+	border-style: solid;
+*/
+	border: 8px dashed rgb(255,100,80);
+}
+
+li {
+	color: orange;
+}
+
+h4 {
+	background: rgb(255,100,80);
+}
+
+body {
+	/*background: url(http://previews.123rf.com/images/frankljunior/frankljunior1004/frankljunior100400167/6880736-Weathered-Gray-Wood-Grain-Background-Close-Up-Stock-Photo-texture.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+	background: pink;
+}
