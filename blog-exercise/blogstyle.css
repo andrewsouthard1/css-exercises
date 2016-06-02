@@ -1,0 +1,37 @@
+body {
+	width: 60%;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 1.66%;
+	margin-bottom: 1.66%;
+	border: 20px solid #bdc3c7;
+	background-color: white;
+	font-family: 'Source Sans Pro', sans-serif;
+	
+}
+
+h2 {
+	font-weight: 700;
+	font-size: 2em;
+}
+
+h6 {
+	color: #3498db;
+	font-size: 1em;
+	font-weight: 500;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+	padding-top: -5%;
+}
+
+p {
+	font-weight: 600;
+	font-size: 1em;
+}
+
+.spacing {
+	margin: 1.66%
+	
+}
+
+
